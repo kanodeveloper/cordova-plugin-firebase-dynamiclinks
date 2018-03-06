@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-firebase-dynamiclinks-ka",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Cordova plugin for Firebase Invites and Firebase Dynamic Links",
   "cordova": {
     "id": "cordova-plugin-firebase-dynamiclinks",
